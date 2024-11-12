@@ -7,13 +7,9 @@
 1. [Descrição do Projeto](#descrição-do-projeto)
 2. [Motivação](#motivação)
 3. [Funcionalidades](#funcionalidades)
-4. [Instalação e Execução](#instalação-e-execução)
+4. [Temas que foram abordados no curso](#Temas-que-foram-abordados-no-curso)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 6. [Como Usar](#como-usar)
-7. [Exemplos de Resultados](#exemplos-de-resultados)
-8. [Próximos Passos](#próximos-passos)
-9. [Referências](#referências)
-10. [Licença](#licença)
 
 ## Descrição do Projeto
 Este projeto tem como objetivo proporcionar uma compreensão dos papéis de cada tecnologia da Web na construção de páginas, bem como a aplicação prática de técnicas de JavaScript em conjunto com HTML e CSS para criar páginas dinâmicas e interativas.
@@ -35,6 +31,6 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 - Interando em listas
 - Eventos e lógicas
 
-## Tecnologias que foram usadas
+## Tecnologias Utilizadas
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
